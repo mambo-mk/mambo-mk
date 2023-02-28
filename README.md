@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align="center">
-  <h1>hey there 👋🏿 <https://"media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px"/></h1>
+  <h1>Hey there 👋🏿, I'm Mambo <https://"media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px"/></h1>
 </div>
 <div align="left">
   <h3>:man_technologist: About Me :</h3>
