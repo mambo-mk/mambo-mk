@@ -16,7 +16,7 @@
 <div align="left">
   <h3>:man_technologist: About Me :</h3>
   <ul>
-    <li>:telescope: I’m working as a Data Analyst @<a href=http://https://aesops.co.ke>Aesops</a>.</li>
+    <li>:telescope: I’m working as a Data Analyst @<a href=https://aesops.co.ke>Aesops</a>.</li>
     <li>:pen: I’m currently focusing on deep learning and Natural Language Processing(NLP).</li>
     <li>:seedling: Exploring Technical Content Writing.</li>
     <li>:zap: I'm my currently learning front-end development.</li>
